@@ -1,6 +1,6 @@
 # Semantic Compression with Multimodal Foundation Models
 
-Official implementation of the paper "[Compression Beyond Pixels: Semantic Compression with Multimodal Foundation Models]()"
+Official implementation of the IEEE MLSP 2025 conference paper "[Compression Beyond Pixels: Semantic Compression with Multimodal Foundation Models](https://arxiv.org/abs/2509.05925)"
 
 ## Overview
 
